@@ -1,0 +1,3 @@
+cohere_api_key = "wfmgPDP9DZwibXjUQrECMR9FveCJ19YHiddoe163"
+hugging_face_key = "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"
+serpapi_key = "fdc048b72d5beada104cc0f2b3b964dda5d4c9ada95894370f43e0bd27001a66"
